@@ -1,7 +1,7 @@
 class Imgpkg < Formula
   desc "Imgpkg"
   homepage "https://carvel.dev/imgpkg/"
-  version "v0.19.0"
+  version "v0.19.0a"
 
   if OS.mac?
     if Hardware::CPU.arm?
